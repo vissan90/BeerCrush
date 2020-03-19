@@ -1,0 +1,8 @@
+.Tile{
+    width: 100px;
+    height:100px;
+    box-sizing: border-box;
+    background: #eee;
+    border: 1px solid #fff;
+    overflow: hidden;
+}

@@ -1,0 +1,15 @@
+.Beer{
+    padding: 5px;
+    cursor: grab;
+    width: 100%;
+    height:100%;
+}
+
+.Beer img{
+   width:45%;
+   transition: transform .5s ease;
+}
+
+/* .Beer:hover img{
+    transform: scale(1.2);
+} */
